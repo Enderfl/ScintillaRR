@@ -1,4 +1,8 @@
-<h1 style="color:#800080; text-align:center;">SCINTILLA</h1>
+<!-- SCINTILLA header image -->
+<p style="text-align:center;">
+  <img src="assets/GetScintillaOrDie.png" alt="SCINTILLA" />
+</p>
+
 <h3 style="color:#ff6600; text-align:center;">Can your menu do this? 😏</h3>
 
 <hr style="border:1px solid #ffffff;">
