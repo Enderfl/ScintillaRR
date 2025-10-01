@@ -1,4 +1,15 @@
-<h1 style="color:white; text-align:center;">SCINTILLA MENU ELITE</h1>
+<h1 style="text-align:center;">
+  <span style="color:#800080">S</span>
+  <span style="color:#8a00aa">C</span>
+  <span style="color:#9400d4">I</span>
+  <span style="color:#9e33e5">N</span>
+  <span style="color:#a84ef0">T</span>
+  <span style="color:#b268fb">I</span>
+  <span style="color:#bc82ff">L</span>
+  <span style="color:#c69cff">L</span>
+  <span style="color:#d0b6ff">A</span>
+</h1>
+
 <h3 style="color:#ff6600; text-align:center;">Can your menu do this? 😏</h3>
 
 <hr style="border:1px solid #ffffff;">
@@ -12,9 +23,9 @@
 
 <h2 style="color:#00ffff;">Team Updates</h2>
 <ul style="color:white;">
-  <li>Colossus YTTV was a massive inspiration</li>
   <li>l_0 created the original Scintilla Menu</li>
-  <li>Head Dev continues to oversee ideas, logic, and orchestration</li>
+  <li>Colossus inspired the current development</li>
+  <li>Head Dev: @Newwer</li>
 </ul>
 
 <h2 style="color:#00ffff;">Coming Out Tracker</h2>
