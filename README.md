@@ -1,49 +1,34 @@
-<!-- SCINTILLA header image -->
-<p style="text-align:center;">
-  <img src="assets/GetScintillaOrDie.png" alt="SCINTILLA" />
-</p>
+![SCINTILLA](assets/GetScintillaOrDie.png)
 
-<h3 style="color:#ff6600; text-align:center;">Can your menu do this? 😏</h3>
+### Can your menu do this? 😏
 
-<hr style="border:1px solid #ffffff;">
+---
 
-<h2 style="color:#00ffff;">Current Status</h2>
-<ul style="color:white;">
-  <li><strong>Delay Ban All:</strong> patched</li>
-  <li><strong>Anti-Ban (Quest):</strong> patched</li>
-  <li><strong>Retro Mode:</strong> broken</li>
-</ul>
+## Current Status
+- **Delay Ban All:** patched
+- **Anti-Ban (Quest):** patched
+- **Retro Mode:** broken
 
-<h2 style="color:#00ffff;">Team Updates</h2>
-<ul style="color:white;">
-  <li>l_0 created the original Scintilla Menu</li>
-  <li>Colossus inspired the current development</li>
-  <li>Head Dev: @Newwer</li>
-</ul>
+## Team Updates
+- l_0 created the original Scintilla Menu
+- Colossus inspired the current development
+- Head Dev: @Newwer
 
-<h2 style="color:#00ffff;">Coming Out Tracker</h2>
-<ul style="color:white;">
-  <li>Release Status: ❌ Not yet released</li>
-  <li>Expected Rollout: TBD</li>
-  <li>Notes: Currently testing patched features; Retro Mode still broken</li>
-</ul>
+## Coming Out Tracker
+- Release Status: ❌ Not yet released
+- Expected Rollout: TBD
+- Notes: Currently testing patched features; Retro Mode still broken
 
-<h2 style="color:#00ffff;">Clip / Overlay Ideas</h2>
-<ul style="color:white;">
-  <li>Muffled verses with dramatic countdowns</li>
-  <li>Temp action console overlays (theatrical, safe)</li>
-  <li>Retro Mode visuals (once fixed)</li>
-</ul>
+## Clip / Overlay Ideas
+- Muffled verses with dramatic countdowns
+- Temp action console overlays (theatrical, safe)
+- Retro Mode visuals (once fixed)
 
-<h2 style="color:#00ffff;">Safe Notes</h2>
-<ul style="color:white;">
-  <li>All features described are either cosmetic or server-side in owned/test servers</li>
-  <li>No instructions for breaking client systems or moderation included</li>
-  <li>This repo is a hub for hype, updates, and tracking the project status</li>
-</ul>
+## Safe Notes
+- All features described are either cosmetic or server-side in owned/test servers
+- No instructions for breaking client systems or moderation included
+- This repo is a hub for hype, updates, and tracking the project status
 
-<hr style="border:1px solid #ffffff;">
+---
 
-<p style="color:#ff66ff; text-align:center;">
 🔥 Scintilla Menu Elite — keeping the chaos alive 🔥
-</p>
