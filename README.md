@@ -1,4 +1,6 @@
-![SCINTILLA](/GetScintillaOrDie.png)
+<p align="center">
+  <img src="GetScintillaOrDie.png" alt="SCINTILLA" width="600"/>
+</p>
 
 ### Can your menu do this? 😏
 
@@ -31,4 +33,6 @@
 
 ---
 
+<p style="color:#ff66ff; text-align:center;">
 🔥 Scintilla Menu Elite — keeping the chaos alive 🔥
+</p>
