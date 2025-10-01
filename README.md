@@ -1,4 +1,4 @@
-![SCINTILLA](assets/GetScintillaOrDie.png)
+![SCINTILLA](/GetScintillaOrDie.png)
 
 ### Can your menu do this? 😏
 
